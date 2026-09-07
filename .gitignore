@@ -1,1 +1,0 @@
-Nothing needs to be added to .gitignore since only a JavaScript type definition file (`Tanu/types.js`) was modified, which is a source code file that should be tracked in version control.
