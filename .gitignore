@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.*
+config/secrets.js
+Tanu-htx-session/
+auth/
+session/
+sessions/
+tmp/
+*.log
+npm-debug.log*
+.DS_Store

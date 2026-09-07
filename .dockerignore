@@ -1,0 +1,11 @@
+node_modules
+.git
+.env
+.env.*
+Tanu-htx-session
+auth
+session
+sessions
+tmp
+npm-debug.log*
+Dockerfile
